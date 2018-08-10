@@ -22,7 +22,10 @@ h2 {
 
 h3 {
   font-size: 1.2em;
-  margin-bottom: 1em; }
+  margin: 1em 0; }
+
+p {
+  font-size: 0.8em; }
 
 .header {
   padding: 3em 0 2em 0; }
