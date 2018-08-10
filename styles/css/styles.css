@@ -33,4 +33,11 @@ p {
 section {
   margin-bottom: 3em; }
 
+.contact a {
+  text-decoration: underline;
+  color: #010203; }
+
+.contact h3 {
+  text-align: center; }
+
 /*# sourceMappingURL=styles.css.map */
