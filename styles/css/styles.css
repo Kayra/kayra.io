@@ -27,15 +27,15 @@ h3 {
 p {
   font-size: 0.8em; }
 
+a {
+  text-decoration: underline;
+  color: #010203; }
+
 .header {
   padding: 3em 0 2em 0; }
 
 section {
   margin-bottom: 3em; }
-
-.contact a {
-  text-decoration: underline;
-  color: #010203; }
 
 .contact h3 {
   text-align: center; }
