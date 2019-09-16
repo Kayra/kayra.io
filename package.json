@@ -1,7 +1,8 @@
 {
-  "name": "kayraalat",
+  "name": "kayra_alat_portfolio",
+  "author": "Kayra Alat",
   "version": "1.0.0",
-  "description": "Kayra's portfolio site",
+  "description": "",
   "main": "index.html",
   "devDependencies": {
     "grunt": "^1.0.0",
@@ -14,14 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kayra/kayraalat.co.uk"
+    "url": "git+"
   },
-  "author": "Kayra Alat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kayra/kayraalat.co.uk/issues"
+    "url": "/issues"
   },
-  "homepage": "https://github.com/Kayra/kayraalat.co.uk#readme",
+  "homepage": "#readme",
   "dependencies": {
     "npm": "^6.3.0"
   }
