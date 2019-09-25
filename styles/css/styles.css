@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Code Saver";
+  src: url("../../assets/fonts/codesaver-regular.ttf");
+  font-weight: 400; }
+body {
+  color: #111111;
+  background-color: #E8E7D7; }
+
+p {
+  font-family: "Code Saver", serif; }
+
+@media all and (min-width: 481px) and (max-width: 992px) {
+  h1 {
+    font-size: 5em; } }
+@media all and (min-width: 0) and (max-width: 480px) {
+  h1 {
+    font-size: 5em; } }
+
+/*# sourceMappingURL=styles.css.map */
