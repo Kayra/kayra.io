@@ -25,8 +25,12 @@ h3 {
   font-family: "Harmonia Sans", serif;
   font-weight: 800; }
 
-p {
+p, li {
   font-family: "Code Saver", serif; }
+
+hr {
+  border-top: 7px solid;
+  margin-left: -10000%; }
 
 @media all and (min-width: 481px) and (max-width: 992px) {
   h1 {
