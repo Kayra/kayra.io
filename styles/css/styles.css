@@ -32,6 +32,12 @@ hr {
   border-top: 7px solid;
   margin-left: -10000%; }
 
+.tech {
+  float: left; }
+
+.social {
+  float: right; }
+
 @media all and (min-width: 481px) and (max-width: 992px) {
   h1 {
     font-size: 5em; } }
