@@ -69,8 +69,7 @@ form input, form textarea {
   border-radius: 5px; }
 
 form button {
-  float: right;
-  font-weight: 800; }
+  float: right; }
 
 @media all and (min-width: 481px) and (max-width: 992px) {
   h1 {
