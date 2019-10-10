@@ -5,7 +5,7 @@ Single page static site to display my work and experience.
 ## Technologies
 
 * HTML
-* SASS
+* Sass
 * Grunt
 * Github pages (hosting)
 * [Dinkers Static Site Builder](https://github.com/Dinkers/Static-Site-Builder)
