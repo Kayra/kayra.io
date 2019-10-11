@@ -32,6 +32,10 @@ p, li {
   font-family: "Code Saver", serif;
   font-size: 1rem; }
 
+h4 a {
+  color: #111111;
+  text-decoration: underline; }
+
 hr {
   border-top: 7px solid;
   margin-left: -10000%; }
