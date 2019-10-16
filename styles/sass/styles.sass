@@ -1,6 +1,12 @@
 @font-face
     font-family: "Code Saver"
     src: url('../../assets/fonts/codesaver-regular.ttf')
+    font-weight: 400
+
+@font-face
+    font-family: "Code Saver"
+    src: url('../../assets/fonts/codesaver-bold.ttf')
+    font-weight: 800
     
 @font-face
     font-family: "Harmonia Sans"
@@ -53,6 +59,12 @@ section
 section h3
     margin-bottom: 1rem
 
+form input, form textarea
+    border-radius: 5px
+
+form button
+    float: right
+
 .key-skills
     overflow: auto
     margin-top: 4rem
@@ -72,11 +84,8 @@ section h3
     font-family: "Harmonia Sans", sans-serif
     font-size: 1rem
 
-form input, form textarea
-    border-radius: 5px
-
-form button
-    float: right
+.bold
+    font-weight: 800
 
 // Tablet
 @media all and (min-width: 481px) and (max-width: 992px)
