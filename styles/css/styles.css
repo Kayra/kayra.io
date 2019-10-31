@@ -88,9 +88,25 @@ form button {
 
 @media all and (min-width: 481px) and (max-width: 992px) {
   h1 {
-    font-size: 5em; } }
+    font-size: 3rem; } }
 @media all and (min-width: 0) and (max-width: 480px) {
   h1 {
-    font-size: 5em; } }
+    font-size: 4rem; }
+
+  h2 {
+    font-size: 2rem; }
+
+  p {
+    font-size: 1rem; }
+
+  .tech {
+    float: left;
+    display: block;
+    clear: both; }
+
+  .social {
+    float: left;
+    display: block;
+    clear: both; } }
 
 /*# sourceMappingURL=styles.css.map */
