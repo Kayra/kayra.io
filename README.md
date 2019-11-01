@@ -2,10 +2,10 @@
 
 Single page static site to display my work and experience.
 
-## Technologies
+## Technologies used
 
 * HTML
-* Sass
+* SASS (CSS)
 * Grunt
 * Github pages (hosting)
 * [Dinkers Static Site Builder](https://github.com/Dinkers/Static-Site-Builder)
@@ -18,5 +18,5 @@ Install the dependencies then run the development server:
 npm i; grunt
 ```
 
-The server will now watch `styles/sass/styles.sass` and `index.html` and reload the page on **localhost:3000** when they have changed.
+The server will now watch `styles/sass/styles.sass`, `main.js`, and `index.html` and reload the page on **localhost:3000** when they have changed.
 
