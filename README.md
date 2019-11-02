@@ -1,4 +1,4 @@
-# Kayra Alat Portfolio
+# kayra.io - Portfolio for Kayra Alat
 
 Single page static site to display my work and experience.
 
